@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">agora-rc</string>
+    <string name="agora_app_id">b65bbd3c67ba48119c94556cd466f7b5</string>
+
+
+    <string name="label_start_camera">Start sharing your camera</string>
+    <string name="label_stop_camera">Stop sharing your camera</string>
+    <string name="label_start_sharing_your_screen">Start Sharing your screen</string>
+    <string name="label_stop_sharing_your_screen">Stop Sharing your screen</string>
+
+    <string name="label_channel_name">ss_test</string>
+</resources>
